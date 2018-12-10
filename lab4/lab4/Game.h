@@ -1,4 +1,4 @@
-// author Peter Lowe
+// author Jack Regan 
 #ifndef GAME
 #define GAME
 
